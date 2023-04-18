@@ -1,0 +1,612 @@
+#home p::after {
+    content: "";
+    animation: movingletter 15s infinite;
+    -webkit-animation: movingletter 15s infinite;
+}
+
+@keyframes movingletter {
+    0% {
+        content: "|";
+    }
+
+    0.66% {
+        content: "G|";
+    }
+
+    1.3% {
+        content: "Gr|";
+    }
+
+    1.9% {
+        content: "Gra|";
+    }
+
+    2.6% {
+        content: "Grap|";
+    }
+
+    3.3% {
+        content: "Graph|";
+    }
+
+    3.9% {
+        content: "Graphi|";
+    }
+
+    4.6% {
+        content: "Graphic|";
+    }
+
+    5.3% {
+        content: "Graphic |";
+    }
+
+    5.9% {
+        content: "Graphic D|";
+    }
+
+    6.6% {
+        content: "Graphic De|";
+    }
+
+    7.3% {
+        content: "Graphic Des|";
+    }
+
+    7.9% {
+        content: "Graphic Desi|";
+    }
+
+    8.6% {
+        content: "Graphic Desig|";
+    }
+
+    9.3% {
+        content: "Graphic Design|";
+    }
+
+    9.9% {
+        content: "Graphic Designe|";
+    }
+
+    10.6% {
+        content: "Graphic Designer|";
+    }
+
+    11.3% {
+        content: "Graphic Designer|";
+    }
+
+    11.9% {
+        content: "Graphic Designer|";
+    }
+
+    12.6% {
+        content: "Graphic Designer|";
+    }
+
+    13.3% {
+        content: "Graphic Designer|";
+    }
+
+    13.9% {
+        content: "Graphic Designe|";
+    }
+
+    14.6% {
+        content: "Graphic Design|";
+    }
+
+    15.3% {
+        content: "Graphic Desig|";
+    }
+
+    15.9% {
+        content: "Graphic Desi|";
+    }
+
+    16.6% {
+        content: "Graphic Des|";
+    }
+
+    17.3% {
+        content: "Graphic De|";
+    }
+
+    17.9% {
+        content: "Graphic D|";
+    }
+
+    18.6% {
+        content: "Graphic |";
+    }
+
+    19.3% {
+        content: "Graphic|";
+    }
+
+    19.9% {
+        content: "Graphi|";
+    }
+
+    20.6% {
+        content: "Graph|";
+    }
+
+    21.3% {
+        content: "Grap|";
+    }
+
+    21.9% {
+        content: "Gra|";
+    }
+
+    22.6% {
+        content: "Gr|";
+    }
+
+    23.3% {
+        content: "G|";
+    }
+
+    23.9% {
+        content: "|";
+    }
+
+    24.6% {
+        content: "C|";
+    }
+
+    25.3% {
+        content: "Ce|";
+    }
+
+    25.9% {
+        content: "Ceo|";
+    }
+
+    26.6% {
+        content: "Ceo |";
+    }
+
+    27.3% {
+        content: "Ceo D|";
+    }
+
+    27.9% {
+        content: "Ceo De|";
+    }
+
+    28.6% {
+        content: "Ceo Dev|";
+    }
+
+    29.3% {
+        content: "Ceo DevF|";
+    }
+
+    29.9% {
+        content: "Ceo DevFo|";
+    }
+
+    30.6% {
+        content: "Ceo DevFol|";
+    }
+
+    31.3% {
+        content: "Ceo DevFoli|";
+    }
+
+    31.9% {
+        content: "Ceo DevFolio|";
+    }
+
+    32.6% {
+        content: "Ceo DevFolio|";
+    }
+
+    33.3% {
+        content: "Ceo DevFolio|";
+    }
+
+    33.9% {
+        content: "Ceo DevFolio|";
+    }
+
+    34.6% {
+        content: "Ceo DevFolio|";
+    }
+
+    35.3% {
+        content: "Ceo DevFoli|";
+    }
+
+    35.9% {
+        content: "Ceo DevFol|";
+    }
+
+    36.6% {
+        content: "Ceo DevFo|";
+    }
+
+    37.3% {
+        content: "Ceo DevF|";
+    }
+
+    37.9% {
+        content: "Ceo Dev|";
+    }
+
+    38.6% {
+        content: "Ceo De|";
+    }
+
+    39.3% {
+        content: "Ceo D|";
+    }
+
+    39.9% {
+        content: "Ceo |";
+    }
+
+    40.6% {
+        content: "Ceo|";
+    }
+
+    41.3% {
+        content: "Ce|";
+    }
+
+    41.9% {
+        content: "C|";
+    }
+
+    42.6% {
+        content: "|";
+    }
+
+    43.3% {
+        content: "W|";
+    }
+
+    43.9% {
+        content: "We|";
+    }
+
+    44.6% {
+        content: "Web|";
+    }
+
+    45.3% {
+        content: "Web |";
+    }
+
+    45.9% {
+        content: "Web D|";
+    }
+
+    46.6% {
+        content: "Web De|";
+    }
+
+    47.3% {
+        content: "Web Dev|";
+    }
+
+    47.9% {
+        content: "Web Deve|";
+    }
+
+    48.6% {
+        content: "Web Devel|";
+    }
+
+    49.3% {
+        content: "Web Develo|";
+    }
+
+    49.9% {
+        content: "Web Develop|";
+    }
+
+    50.6% {
+        content: "Web Develope|";
+    }
+
+    51.3% {
+        content: "Web Developer|";
+    }
+
+    51.9% {
+        content: "Web Developer|";
+    }
+
+    52.6% {
+        content: "Web Developer|";
+    }
+
+    53.3% {
+        content: "Web Developer|";
+    }
+
+    53.9% {
+        content: "Web Developer|";
+    }
+
+    54.6% {
+        content: "Web Develope|";
+    }
+
+    55.3% {
+        content: "Web Develop|";
+    }
+
+    55.9% {
+        content: "Web Develo|";
+    }
+
+    56.6% {
+        content: "Web Devel|";
+    }
+
+    57.3% {
+        content: "Web Deve|";
+    }
+
+    57.9% {
+        content: "Web Dev|";
+    }
+
+    58.6% {
+        content: "Web De|";
+    }
+
+    59.3% {
+        content: "Web Des|";
+    }
+
+    59.9% {
+        content: "Web Desi|";
+    }
+
+    60.6% {
+        content: "Web Desig|";
+    }
+
+    61.3% {
+        content: "Web Design|";
+    }
+
+    61.9% {
+        content: "Web Designe|";
+    }
+
+    62.6% {
+        content: "Web Designer|";
+    }
+
+    63.3% {
+        content: "Web Designer|";
+    }
+
+    63.9% {
+        content: "Web Designer|";
+    }
+
+    64.6% {
+        content: "Web Designer|";
+    }
+
+    65.3% {
+        content: "Web Designer|";
+    }
+
+    65.9% {
+        content: "Web Designe|";
+    }
+
+    66.6% {
+        content: "Web Design|";
+    }
+
+    67.3% {
+        content: "Web Desig|";
+    }
+
+    67.9% {
+        content: "Web Desi|";
+    }
+
+    68.6% {
+        content: "Web Des|";
+    }
+
+    69.3% {
+        content: "Web De|";
+    }
+
+    69.9% {
+        content: "Web D|";
+    }
+
+    70.6% {
+        content: "Web |";
+    }
+
+    71.3% {
+        content: "Web|";
+    }
+
+    71.9% {
+        content: "We|";
+    }
+
+    72.6% {
+        content: "W|";
+    }
+
+    73.3% {
+        content: "|";
+    }
+
+    73.9% {
+        content: "F|";
+    }
+
+    74.6% {
+        content: "Fr|";
+    }
+
+    75.3% {
+        content: "Fro|";
+    }
+
+    75.9% {
+        content: "Fron|";
+    }
+
+    76.6% {
+        content: "Front|";
+    }
+
+    77.3% {
+        content: "Fronte|";
+    }
+
+    77.9% {
+        content: "Fronten|";
+    }
+
+    78.6% {
+        content: "Frontend|";
+    }
+
+    79.3% {
+        content: "Frontend |";
+    }
+
+    79.9% {
+        content: "Frontend D|";
+    }
+
+    80.6% {
+        content: "Frontend De|";
+    }
+
+    81.3% {
+        content: "Frontend Dev|";
+    }
+
+    81.9% {
+        content: "Frontend Deve|";
+    }
+
+    82.6% {
+        content: "Frontend Devel|";
+    }
+
+    83.3% {
+        content: "Frontend Develo|";
+    }
+
+    83.9% {
+        content: "Frontend Develop|";
+    }
+
+    84.6% {
+        content: "Frontend Develope|";
+    }
+
+    85.3% {
+        content: "Frontend Developer|";
+    }
+
+    85.9% {
+        content: "Frontend Developer|";
+    }
+
+    86.6% {
+        content: "Frontend Developer|";
+    }
+
+    87.3% {
+        content: "Frontend Developer|";
+    }
+
+    87.9% {
+        content: "Frontend Developer|";
+    }
+
+    88.6% {
+        content: "Frontend Develope|";
+    }
+
+    89.3% {
+        content: "Frontend Develop|";
+    }
+
+    89.9% {
+        content: "Frontend Develo|";
+    }
+
+    90.6% {
+        content: "Frontend Devel|";
+    }
+
+    91.3% {
+        content: "Frontend Deve|";
+    }
+
+    91.9% {
+        content: "Frontend Dev|";
+    }
+
+    92.6% {
+        content: "Frontend De|";
+    }
+
+    93.3% {
+        content: "Frontend D|";
+    }
+
+    93.9% {
+        content: "Frontend |";
+    }
+
+    94.6% {
+        content: "Frontend|";
+    }
+
+    95.3% {
+        content: "Fronten|";
+    }
+
+    95.9% {
+        content: "Fronte|";
+    }
+
+    96.6% {
+        content: "Front|";
+    }
+
+    97.3% {
+        content: "Fron|";
+    }
+
+    97.9% {
+        content: "Fro|";
+    }
+
+    98.6% {
+        content: "Fr|";
+    }
+
+    99.3% {
+        content: "F|";
+    }
+
+    100% {
+        content: "|";
+    }
+
+}
